@@ -1,4 +1,11 @@
 # Smart Ticket Triage 🎫
+## 📸 Screenshots
+
+**Customer Portal (Submitting a Ticket)**
+![Customer Portal](customer.png)
+
+**Admin Dashboard (AI Categorization & Resolve Workflow)**
+![Admin Dashboard](admin.png)
 
 An AI-powered customer support categorization system built for the Better Software assessment. This full-stack application allows customers to submit support queries, which are automatically categorized (e.g., BUG, FEATURE, BILLING) and prioritized (HIGH, NORMAL, LOW) using an LLM, before being routed to an Admin Dashboard for resolution.
 

@@ -1,0 +1,2 @@
+python app.py for backend
+npm run dev for frontend
